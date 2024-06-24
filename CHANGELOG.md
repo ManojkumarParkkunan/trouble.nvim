@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.4](https://github.com/folke/trouble.nvim/compare/v3.4.3...v3.4.4) (2024-06-24)
+
+
+### Bug Fixes
+
+* **telescope:** item path. Fixes [#521](https://github.com/folke/trouble.nvim/issues/521) ([6e19371](https://github.com/folke/trouble.nvim/commit/6e1937138b2c292ac0d3e8d9bfc36a29a515a380))
+
 ## [3.4.3](https://github.com/folke/trouble.nvim/compare/v3.4.2...v3.4.3) (2024-06-23)
 
 
